@@ -1,2 +1,2 @@
 # Combinational_Shifter_Design
-Report of the the combinational shifter
+The description about the combinational shifter is provided in the above report.
